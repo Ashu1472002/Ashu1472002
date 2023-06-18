@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack Developer || Looking for opportunities to collborate with other artists and designers || Commited to using my skills to create innovative and user-friendly software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu1472002&label=Profile%20views&color=0e75b6&style=flat" alt="ashu1472002" /> </p>
-<img align="right" alt="coding" width="400" height="300" src="img_git.jpg">
+<img align="right" alt="coding" width="400" height="350" src="img_git.jpg">
 
 - 👩‍💻 Hi, I'm currently studying **Computer Engineering**
 
