@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Developement**
 
-- 💬 Ask me about **UI Designing and development || Web Development**
+- 💬 Ask me about **UI/UX Designing and Web Development**
 
 - 📫 How to reach me **ashu1472002@gmail.com**
 
