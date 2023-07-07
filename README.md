@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashwini Pawar</h1>
+<h1 align="center">Hello 👋, Ashwini here..</h1>
 <h3 align="center">A passionate full-stack Developer || Looking for opportunities to collborate with other artists and designers || Commited to using my skills to create innovative and user-friendly software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu1472002&label=Profile%20views&color=0e75b6&style=flat" alt="ashu1472002" /> </p>
