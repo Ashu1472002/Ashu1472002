@@ -6,7 +6,7 @@
 
 - 👩‍💻 Hi, I'm currently studying **Computer Engineering**
 
-- 🌱 I’m currently learning **MERN Stack Developement**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 💬 Ask me about **UI/UX Designing and Web Development**
 
