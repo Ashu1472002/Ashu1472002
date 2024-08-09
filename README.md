@@ -50,7 +50,7 @@
 </div>
 
 <div style='display:flex; align-items:left; gap: 10px;' align='left'>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu1472002&show_icons=true&locale=en&layout=compact" alt="ashu1472002" width="500px" height="500px" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu1472002&show_icons=true&locale=en&layout=compact" alt="ashu1472002" width="480px" height="700px" /></p>
 </div>
 
 
