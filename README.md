@@ -4,11 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu1472002&label=Profile%20views&color=0e75b6&style=flat" alt="ashu1472002" /> </p>
 <img align="right" alt="coding" width="400" height="300" src="img_git.jpg">
 
-- 👩‍💻 Hi, I'm currently studying **Computer Engineering**
+- 👩‍💻 Hi, I'm **Computer Engineering Graduate**(Fresher)
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analytics and Machine Learning**
 
 - 💬 Ask me about **Web Development, Software Development and UI/UX Designing**
+
+- 🤔 I’m looking for **Full-time Positions as a Fresher**
 
 - 📫 How to reach me **ashu1472002@gmail.com**
 
