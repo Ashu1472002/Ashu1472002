@@ -49,9 +49,8 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70px" height="70px"/> </a> 
 </div>
 
-<div style='display:flex; align-items:left; gap: 10px;' align='left'>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu1472002&show_icons=true&locale=en&layout=compact" alt="ashu1472002" width="480px" height="700px" /></p>
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu1472002&show_icons=true&locale=en&layout=compact" alt="ashu1472002" width="500px" height="200px"/>
+
 
 
 <!--
