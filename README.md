@@ -25,11 +25,6 @@
 <a href="https://www.geeksforgeeks.org/user/ashu1472002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ashu1472002/" height="30" width="40" /></a>
 </p>
 
-## GSSOC(24) Badge:
-<div style='display:flex; align-items:left; gap: 10px;' align='left'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-</div>
-
 ## Languages and Tools:
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70px" height="70px"/> </a> 
